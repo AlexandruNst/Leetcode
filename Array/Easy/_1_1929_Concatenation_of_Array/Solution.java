@@ -1,5 +1,7 @@
 package Array.Easy._1_1929_Concatenation_of_Array;
 
+// T: O(n)
+// S: O(n)
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int len = nums.length;
