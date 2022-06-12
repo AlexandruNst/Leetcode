@@ -1,4 +1,4 @@
-package Array.Easy._1920_Build_Array_from_Permutation;
+package Array.Easy._0_1920_Build_Array_from_Permutation;
 
 class Solution {
     public int[] buildArray(int[] nums) {

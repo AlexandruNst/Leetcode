@@ -1,4 +1,4 @@
-package Array.Easy._1929_Concatenation_of_Array;
+package Array.Easy._1_1929_Concatenation_of_Array;
 
 class Solution {
     public int[] getConcatenation(int[] nums) {
