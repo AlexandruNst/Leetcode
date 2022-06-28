@@ -2,6 +2,8 @@ package Array.Medium._11_1877_Minimize_Maximum_Pair_Sum_in_Array;
 
 import java.util.Arrays;
 
+//T: O(n log n)
+//S: O(1)
 class Solution {
     public int minPairSum(int[] nums) {
         Arrays.sort(nums);
